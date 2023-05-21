@@ -1,0 +1,12 @@
+#carouselExample{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+h1 {
+  background-image: linear-gradient(to right, red, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  text-align: center;
+}
